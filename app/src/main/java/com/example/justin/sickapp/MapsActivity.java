@@ -1,5 +1,6 @@
 package com.example.justin.sickapp;
 //Hey justin
+//hey Peter
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
